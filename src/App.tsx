@@ -1,5 +1,7 @@
+import { Widget } from './components';
+
 function App() {
-	return <div>Hellow</div>;
+	return <Widget />;
 }
 
 export default App;
